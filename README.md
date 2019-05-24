@@ -8,4 +8,10 @@ Text message alerts from home security cameras are a common product feature, but
 Raleigh Love - Model integration & training, systems testing/validation<br>
 Brandon Fick - Camera imaging integration, file storage & access<br>
 Scott Stevener - Website/front-end, documentation<br>
-Franko Ortmann - Text message notification integration, systems testing/validation
+Franko Ortmann - Text message notification integration, systems testing/validation<p>
+
+Directories:<br>
+Car Data /cam_base - directory of baseline "greenlight" car images for model comparison<br>
+Helix - Python file for checking for new image files in dropbox<br>
+Helix_Eye_InTheSky - Python files for running the core image comparison model and running Flask site<br>
+Website/css - css file for formatting website
